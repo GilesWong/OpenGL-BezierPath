@@ -1,0 +1,4 @@
+﻿  BezierPath.cpp
+c:\users\wangwenge\source\repos\bezierpath\bezierpath\bezierpath.cpp(64): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\wangwenge\source\repos\bezierpath\bezierpath\bezierpath.cpp(118): warning C4018: “<”: 有符号/无符号不匹配
+  BezierPath.vcxproj -> C:\Users\wangwenge\source\repos\BezierPath\Debug\BezierPath.exe
